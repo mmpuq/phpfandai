@@ -14,7 +14,7 @@ $_REQUEST['url'] =gtRootUrl();
 
 //改成网站正式服务器ip 
 
-$ip= '127.0.0.1'; 
+$ip= '154.46.204.14'; 
 
 $aAccess = curl_init() ; 
 
